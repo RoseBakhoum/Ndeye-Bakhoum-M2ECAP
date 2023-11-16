@@ -40,14 +40,15 @@ passés à la vérification des données manquantes. Nous avons constaté que no
 
   #  1_ Statistiques descriptives des variables quantitatives
 
-  ![image](https://user-images.githubusercontent.com/118168338/218110225-c5481594-62ee-4d81-bf83-c0ba9770ab19.png)
+  ![image](https://user-images.githubusercontent.com/ C:/Users/HP/Picture/cp.png )
+  ![cp](
   C:/Users/HP/Picture/cp.png 
 
 Concernant la variable à prédire , la variable Diabetes est équilibrée. Il y'a autant de personnes qui sont diabétiques que celles qui ne le sont pas. Soit 35346 personnes pour chaque éventualité. 
 
 Ensuite , nous avons regardé certaines relations entre la variable à prédire et les variables qualitatives explcatives. 
 
-![image](https://user-images.githubusercontent.com/118168338/218112179-68eee3f0-e15a-43f6-b30d-5204b9ad9c03.png)
+![image](https://user-images.githubusercontent.com/118168338/cp.png)
 
 Il existe quand meme une différence entre les hommes et les femmes. En effet les femmes sont plus susceptibles de ne pas avoir le diabète que les hommes. Alors que les hommes ont plus de chance d'avoir le diabète que les femmes.
 
