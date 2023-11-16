@@ -36,11 +36,12 @@ Frequency of Purchases :   Fréquence à laquelle le client effectue des achats 
 Aprés l'importation de notre jeu de données, nous avons vérifier si toutes nos variables étaient aux formats. Ensuite nous sommes 
 passés à la vérification des données manquantes. Nous avons constaté que notre base ne comporte pas de données manquantes
 
-# II_ ANALYSE STATISTIQUE DES DONNÉES 
+# II_ Analyse statistique des données
 
   #  1_ Statistiques descriptives des variables quantitatives
 
   ![image](https://user-images.githubusercontent.com/118168338/218110225-c5481594-62ee-4d81-bf83-c0ba9770ab19.png)
+  C:/Users/HP/Picture/cp.png 
 
 Concernant la variable à prédire , la variable Diabetes est équilibrée. Il y'a autant de personnes qui sont diabétiques que celles qui ne le sont pas. Soit 35346 personnes pour chaque éventualité. 
 
