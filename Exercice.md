@@ -6,7 +6,7 @@ Notre objectif sera d'étudier le tendance d'achat des clients afin de permettre
 mais également leur produits proposées à leur clientèle pour booster leur vente. 
 
 
-Description des données 
+### Description des données 
 
 Nous avons choisi un ensemble de variables pour mener notre étude. Parmi lesquelles nous avons 
 Suivant la description des données , nous avons :
