@@ -40,8 +40,9 @@ passés à la vérification des données manquantes. Nous avons constaté que no
 
   #  1_ Statistiques descriptives des variables quantitatives 
 
-![image](https://user-images.githubusercontent.com/118168338/cp.png)
+![image](https://user-images.githubusercontent.com/C:/Users/HP/Pictures/cp.png)
 ![image](https://github.com/RoseBakhoum/Ndeye-Bakhoum-M2ECAP/edit/main/Exercice.md/cp.png)
+![image]("C:\Users\HP\Pictures\cp.png")
 
 Il existe quand meme une différence entre les hommes et les femmes. En effet les femmes sont plus susceptibles de ne pas avoir le diabète que les hommes. Alors que les hommes ont plus de chance d'avoir le diabète que les femmes.
 
