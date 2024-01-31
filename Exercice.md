@@ -11,8 +11,8 @@ mais également leur produits proposées à leur clientèle pour booster leur ve
 Nous avons choisi un ensemble de variables pour mener notre étude. Parmi lesquelles nous avons 
 Suivant la description des données , nous avons :
 
-Customer ID :             Identifiant unique pour chaque client
-Age :                      Âge du client
+####Customer ID :             Identifiant unique pour chaque client
+####Age :                      Âge du client
 Gender :                   Genre du client (Homme/Femme)
 Item Purchased :           L'article acheté par le client
 Category :                 Catégorie de l'article acheté
